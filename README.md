@@ -66,4 +66,4 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
 ## RESULT:
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully.
